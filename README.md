@@ -1,6 +1,6 @@
 **Continous Learning & skill upgrade details **
 
-Job Simulations Programs
+Developing AI Skills in Human Resources
 
 FinTech: Finance Industry Transformation and Regulation from Hong Kong University of Sci & Tech.
 
@@ -15,3 +15,5 @@ Investment Banking
 Business Analysis & Process
 
 Google Analytics
+
+Job Simulations Programs
